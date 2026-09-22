@@ -1,4 +1,4 @@
-# Knowledge Representation & Reasoning — Rete di Voli con OWL e CWA
+# Knowledge Representation & Reasoning - Rete di Voli con OWL e CWA
 
 Base di conoscenza OWL per una rete di voli diretti tra città,
 con inferenza automatica dei voli indiretti tramite forward chaining
